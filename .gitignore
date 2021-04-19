@@ -1,0 +1,18 @@
+# Maven
+target
+
+# IntelliJ
+.idea
+*.iml
+out
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# NetBeans
+.nbattrs
+
+# log files for heap measure tests
+junit4/junit4-jvm-test/files/
